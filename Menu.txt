@@ -1,0 +1,13 @@
+*****Lutfen Bir Pizza Tabani Seciniz: *****
+1: Klasik (60TL)
+2: Margarita (65TL)
+3: TurkPizza (65TL)
+4: Sade Pizza (50TL)
+* ve sececeginiz sos:
+5: Zeytin (5TL)
+6: Mantarlar (5TL)
+7: Peynir (5TL)
+8: Et (10TL)
+9: Sogan (2TL)
+10: Misir (3TL)
+* Tesekkur ederiz!
